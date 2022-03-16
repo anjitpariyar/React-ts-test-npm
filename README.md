@@ -11,7 +11,7 @@ npm i test-react-ts
 ## Import
 
 ```
-import SayHello from "test-react-ts";
+import {SayHello} from "test-react-ts";
 
 ```
 
